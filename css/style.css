@@ -1038,7 +1038,7 @@
 .form{
     width: 605px;
 }
-.form__button{
+.form-button{
     padding: 15px 40px;
     background: #FFA62B;
     border-radius: 5px;
